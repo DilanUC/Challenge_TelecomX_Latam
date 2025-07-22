@@ -81,4 +81,4 @@ Un dataset limpio, estructurado y visualizado, que permite entender mejor la eva
 ---
 
 **Autor:** *Dilan Utria*  
-📅 **Proyecto:** TELECOMX_LATAM  
+📅 **Proyecto:** TELECOMX_LATAM - https://dilanuc.github.io/Challenge_TelecomX_Latam/ 
