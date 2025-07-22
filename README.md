@@ -80,5 +80,5 @@ Un dataset limpio, estructurado y visualizado, que permite entender mejor la eva
 
 ---
 
-**Autor:** *[Tu nombre o equipo]*  
+**Autor:** *Dilan Utria*  
 📅 **Proyecto:** TELECOMX_LATAM  
